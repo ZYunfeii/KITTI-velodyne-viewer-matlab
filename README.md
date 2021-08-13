@@ -16,7 +16,7 @@
 
 ![image-20210813144641657](README.assets/image-20210813144641657.png)
 
-1. **What you need to do is just run test.mlx by MATLAB!!! It's so easy, isn't is?**
+1. **What you need to do is just run test.mlx by MATLAB!!! It's so easy, isn't it?**
 
 2. **If you what to train the new model, run the main.py with Python!**
 
